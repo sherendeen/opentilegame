@@ -1,0 +1,16 @@
+package open;
+
+public enum TileType {
+	DIRT,
+	COBBLESTONE,
+	GRASS,
+	STONE,
+	OBSIDIAN,
+	GRAVEL,
+	SAND,
+	SWAMPY_WATER,
+	SHALLOWS,
+	WATER,
+	WOODEN_FLOOR,
+	SCORCHED_EARTH
+}
